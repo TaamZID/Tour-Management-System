@@ -1,6 +1,6 @@
 # Tour-Management-System
 
-Tour Management System Using C# .NET  
+Tour Management System Using C# .NET (00749 	OBJECT ORIENTED PROGRAMMING 2 - C# final project.)
 Admin will control the whole project, can add new admin, tour host, also can do search, update, delete operations. 
 Tour Host can create new event, can update, delete the whole event and sell the event.  
 
