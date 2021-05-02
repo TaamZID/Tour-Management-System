@@ -1,0 +1,23 @@
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\bin\Debug\Tour Management System.exe.config
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\bin\Debug\Tour Management System.exe
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\bin\Debug\Tour Management System.pdb
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.Form1.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.Properties.Resources.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour Management System.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour Management System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour Management System.exe
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour Management System.pdb
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour Management System.csproj.CopyComplete
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.Administrator.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour Management System.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.AdministratorUC.UC_Dashboard.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.AdministratorUC.UC_AddUser.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.AdministratorUC.UC_ViewUser.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.AdministratorUC.UC_Profile.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.EventHost.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.TourHostUC.UC_P_Dashboard.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.TourHostUC.UC_P_AddEvent.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.TourHostUC.UC_P_ViewEvent.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.TourHostUC.UC_P_UpdateEvent.resources
+C:\Users\Acer\Desktop\Tour Management System\Tour Management System\obj\Debug\Tour_Management_System.TourHostUC.UC_P_Booking.resources
